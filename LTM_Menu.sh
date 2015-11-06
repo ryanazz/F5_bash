@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOME=/root/ryan/scripts
+HOME=/root/ryan/scripts/F5_bash
 
 f_check_pool_members () {
 	$HOME/Pool_status.sh
